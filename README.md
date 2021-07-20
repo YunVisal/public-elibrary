@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Public E-Library Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Prerequisite
+
+### `npm install`
+
+Install all dependencies for the project.
 
 ## Available Scripts
 

@@ -1,0 +1,18 @@
+.nav-pills .nav-link{
+    color: rgba(0, 0, 0, 0.5);
+    background-color: #fdfdfd;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+    padding: 1.5em 0;
+    padding-right: 15%;
+    cursor: pointer;
+}
+
+.nav-pills .nav-link.active, .nav-pills .nav-link:hover{
+    color: #000;
+    background-color: #fdfdfd;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.3);
+}
+
+.nav-pills .nav-link.active{
+    font-size: 1.1em;
+}
